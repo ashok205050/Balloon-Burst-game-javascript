@@ -189,3 +189,4 @@ function update() {
 window.addEventListener('resize', () => {
     game.scale.resize(window.innerWidth, window.innerHeight);
 });
+// Done
